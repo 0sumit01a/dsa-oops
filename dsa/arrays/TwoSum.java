@@ -13,7 +13,7 @@ public class TwoSum {
         throw new IllegalArgumentException("No two sum solution");
     }
 
-    // ✅ Add main() here
+ 
     public static void main(String[] args) {
         TwoSum ts = new TwoSum();
         int[] nums = {2, 7, 11, 15};
